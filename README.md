@@ -4,7 +4,7 @@
 <br/>
 
 [![Apple Developer Academy](https://img.shields.io/badge/Apple_Developer_Academy-000000?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/hyauss)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hyauss)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-marques-966918274/)
 
 </div>
 
