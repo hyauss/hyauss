@@ -25,6 +25,7 @@
 <a href="https://developer.mozilla.org/docs/Web/CSS" title="CSS"><img height="48" src="https://skillicons.dev/icons?i=css"/></a>
 <a href="https://developer.mozilla.org/docs/Web/JavaScript" title="JavaScript"><img height="48" src="https://skillicons.dev/icons?i=js"/></a>
 <a href="https://vuejs.org" title="Vue.js"> <img height="48" src="https://skillicons.dev/icons?i=vue"/></a>
+<a href="https://flutter.dev" title="Flutter"><img height="48" src="https://skillicons.dev/icons?i=flutter"/></a>
 
 **Backend**
 
