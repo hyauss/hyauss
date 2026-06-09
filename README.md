@@ -10,8 +10,6 @@
 
 ---
 
-### Stack
-
 <div align="center">
 
 **Mobile**
@@ -33,6 +31,11 @@
 <a href="https://spring.io" title="Spring"><img height="48" src="https://skillicons.dev/icons?i=spring"/></a>
 <a href="https://maven.apache.org" title="Maven"><img height="48" src="https://skillicons.dev/icons?i=maven"/></a>
 
+**Data & AI**
+
+<a href="https://www.python.org" title="Python"><img height="48" src="https://skillicons.dev/icons?i=python"/></a>
+<a href="https://www.anaconda.com" title="Anaconda"><img height="48" src="https://skillicons.dev/icons?i=anaconda"/></a>
+
 **Databases**
 
 <a href="https://www.mysql.com" title="MySQL"><img height="48" src="https://skillicons.dev/icons?i=mysql"/></a>
@@ -47,11 +50,6 @@
 <a href="https://www.docker.com" title="Docker"><img height="48" src="https://skillicons.dev/icons?i=docker"/></a>
 <a href="https://gitlab.com" title="GitLab"><img height="48" src="https://skillicons.dev/icons?i=gitlab"/></a>
 
-**Data & AI**
-
-<a href="https://www.python.org" title="Python"><img height="48" src="https://skillicons.dev/icons?i=python"/></a>
-<a href="https://www.anaconda.com" title="Anaconda"><img height="48" src="https://skillicons.dev/icons?i=anaconda"/></a>
-
 **Version Control**
 
 <a href="https://git-scm.com" title="Git"><img height="48" src="https://skillicons.dev/icons?i=git"/></a>
@@ -60,20 +58,13 @@
 
 **Languages**
 
-<a href="https://developer.mozilla.org/docs/Web/HTML" title="HTML"><img height="48" src="https://skillicons.dev/icons?i=html"/></a>
-<a href="https://developer.mozilla.org/docs/Web/CSS" title="CSS"><img height="48" src="https://skillicons.dev/icons?i=css"/></a>
-<a href="https://developer.mozilla.org/docs/Web/JavaScript" title="JavaScript"><img height="48" src="https://skillicons.dev/icons?i=js"/></a>
-<a href="https://www.java.com" title="Java"><img height="48" src="https://skillicons.dev/icons?i=java"/></a>
 <a href="https://en.wikipedia.org/wiki/C_(programming_language)" title="C"><img height="48" src="https://skillicons.dev/icons?i=c"/></a>
 <a href="https://learn.microsoft.com/dotnet/csharp/" title="C#"> <img height="48" src="https://skillicons.dev/icons?i=cs"/></a>
-<a href="https://dart.dev" title="Dart"><img height="48" src="https://skillicons.dev/icons?i=dart"/></a>
-<a href="https://www.swift.org" title="Swift"><img height="48" src="https://skillicons.dev/icons?i=swift"/></a>
-<a href="https://www.python.org" title="Python"> <img height="48" src="https://skillicons.dev/icons?i=python"/></a>
-<a href="https://en.wikipedia.org/wiki/SQL" title="SQL"><img height="48" src="https://cdn.simpleicons.org/mysql"/></a>
 <a href="https://www.haskell.org" title="Haskell"><img height="48" src="https://skillicons.dev/icons?i=haskell"/></a>
 <a href="https://www.uml.org" title="UML"><img height="48" src="https://cdn.simpleicons.org/uml"/></a>
 <!-- VBA --><!-- Prolog --><!-- Assembly -->
 **Shell & Operating Systems**
+
 
 <a href="https://www.gnu.org/software/bash/" title="Bash"><img height="48" src="https://skillicons.dev/icons?i=bash"/></a>
 <a href="https://learn.microsoft.com/powershell/" title="PowerShell"><img height="48" src="https://skillicons.dev/icons?i=powershell"/></a>
@@ -86,3 +77,7 @@
 <a href="https://www.figma.com" title="Figma"><img height="48" src="https://skillicons.dev/icons?i=figma"/></a>
 <a href="https://www.postman.com" title="Postman"><img height="48" src="https://skillicons.dev/icons?i=postman"/></a>
 <a href="https://insomnia.rest" title="Insomnia"><img height="48" src="https://cdn.simpleicons.org/insomnia" /></a>
+
+---
+
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hyauss&theme=github_dark" />
