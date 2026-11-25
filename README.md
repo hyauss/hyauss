@@ -28,7 +28,8 @@ class ViniciusMarques {
         "FrontEnd" : [
             "Flutter",
             "Swift Ecosystem",
-            "Vuejs"
+            "Vuejs",
+            "Nextjs"
         ],
         
         "BackEnd" : ["SpringBoot(Java)"],
@@ -71,10 +72,11 @@ class ViniciusMarques {
     [
         "Apple Developer at Apple Developer Academy | Mackenzie",
         "DevSecOps & Secure Software Development at CYBERSECLAB | Mackenzie",
+        "Pentest at MackSec | Mackenzie",
         "Optimizing Emergency Response Integrating Telemetry and Synchronizing Physical and Digital Flows | Bachelor's Thesis"
     ]
     
-    var interests = ["Things that go unbelievably fast", "Bringing ideas to life"]
+    var interests = ["Things that go unbelievably fast", "Bringing ideas to life", "Master’s degree in critical systems"]
 }
 
 ```
